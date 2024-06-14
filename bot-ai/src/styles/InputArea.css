@@ -1,0 +1,18 @@
+/* InputArea.css */
+.inputArea {
+  display: flex;
+  align-items: center;
+  background-color: #f0f0f0; /* Adjust as per your design */
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.inputField {
+  flex: 1;
+  margin-right: 10px;
+}
+
+.actionButton {
+  margin-left: 10px;
+}

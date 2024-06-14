@@ -1,0 +1,32 @@
+/* FeedbackOverview.css */
+.feedbackOverview {
+  padding: 20px;
+  background-color: #ffffff; /* Adjust as per your design */
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.feedbackOverview h6 {
+  margin-bottom: 10px;
+}
+
+.feedbackOverview .MuiTextField-root {
+  margin-bottom: 10px;
+}
+
+.feedbackOverview table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.feedbackOverview th,
+.feedbackOverview td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.feedbackOverview th {
+  background-color: #f0f0f0; /* Adjust as per your design */
+}

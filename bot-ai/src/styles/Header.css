@@ -1,0 +1,8 @@
+/* Header.css */
+.header {
+  background-color: #1976d2; /* Adjust as per your design */
+}
+
+.headerTitle {
+  flex-grow: 1;
+}
